@@ -1,7 +1,7 @@
 @charset "gb2312";
 /* CSS Document */
 * { margin: 0; padding: 0 }
-body { font: 14px "宋体", "Arial Narrow", HELVETICA; color: #3F3E3C; line-height: 1.5; background:url(../images/bg1.jpg)}
+body { font: 14px "宋体", "Arial Narrow", HELVETICA; color: #3F3E3C; line-height: 1.5; background:url(https://pic.imgdb.cn/item/648564531ddac507cc52453b.jpg)}
 img { border: 0; vertical-align: middle }
 h1, h2, h3, h4, h5, h6 { font-weight: normal; }
 h1 { font: 24px "微软雅黑", "Microsoft YaHei", Arial, Helvetica, sans-serif }
@@ -15,7 +15,7 @@ header {
 	width:100%;
 	height:450px;
 	margin:auto;
-	background:url(../images/top2.jpg) center 0 scroll no-repeat;}
+	background:url(https://pic.imgdb.cn/item/648564531ddac507cc5245d5.jpg) center 0 scroll no-repeat;}
 header img {
 	float:left;
 	margin:0 20px 0 66px;
@@ -86,14 +86,14 @@ header p {
 .info figure:hover figcaption { opacity: 1; } /* 用opacity 设置鼠标放上去显示文字的效果 */
 .info figcaption strong { display: block; line-height: 40px }
 /* card */
-.card { box-shadow: 0px 1px 0px rgba(255,255,255,.1), inset 0px 1px 1px rgba(0,0,0,.7); border-radius: 6px; background:#fff url(../images/quote-bg.png) no-repeat top right; width: 350px; float: right; height: 250px; overflow: hidden }
+.card { box-shadow: 0px 1px 0px rgba(255,255,255,.1), inset 0px 1px 1px rgba(0,0,0,.7); border-radius: 6px; background:#fff url(https://pic.imgdb.cn/item/6485647f1ddac507cc528034.png) no-repeat top right; width: 350px; float: right; height: 250px; overflow: hidden }
 .card h1 { padding: 10px }
 .card p:first-child { padding: 40px 0 0 40px } /* 结构性伪类选择符 选择第一个p标签，并且设置上、左距离是40px*/
 .card p { padding: 0 0 0 40px; line-height: 28px; color: #111;}
 .linkmore { margin: 15px 0 0 15px }
 .linkmore li a { height: 50px; width: 50px; display: block; overflow: hidden; box-shadow: 0px 1px 0px rgba(255,255,255,.1), inset 0px 1px 1px rgba(0,0,0,.7); border-radius: 50%; float: left; margin: 0 6px; }
 .linkmore li a:hover { opacity: 0.5; -webkit-transform: rotate(30deg); -ms-transform: rotate(30deg); -moz-transform: rotate(30deg); -o-transform: rotate(30deg); transform: rotate(30deg); }
-.talk, .address, .email, .photos, .heart { background: url(../images/icons.png) no-repeat; }
+.talk, .address, .email, .photos, .heart { background: url(https://pic.imgdb.cn/item/6485647f1ddac507cc528016.png) no-repeat; }
 .talk { background-position: 13px 18px }
 .address { background-position: 12px -22px }
 .email { background-position: 12px -60px }
@@ -117,7 +117,7 @@ header p {
 .details li { line-height: 26px; display: inline; font-size:14px; margin-right: 10px; }
 .details li a { color: #3F3E3C }
 .details li a:hover { color: #933 }
-.icon-time, .likes, .comments { background: url(../images/icons.png) no-repeat }
+.icon-time, .likes, .comments { background: url(https://pic.imgdb.cn/item/6485647f1ddac507cc528016.png) no-repeat }
 .icon-time { background-position: 0 -208px; padding: 0 0 0 18px; }
 .likes, .comments { float: right; padding: 0 0 0 14px; }
 .likes { background-position: 0 -240px; }
